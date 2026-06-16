@@ -58,5 +58,3 @@ Notes
 Contributing
 - Small edits, fixes, and documentation improvements are welcome. Open a PR with a short description.
 
-License
-- Add a license file if you plan to publish this repository publicly.
